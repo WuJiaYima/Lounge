@@ -1,17 +1,18 @@
 h1,h2 {
-  color: gray
+  color: darkred;
 }
 h1 {
-  border-bottom: 1px solid black;
+  border-bottom: solid;
 }
 p {
-  color: maroon;
+  color: goldenrod;
 }
 body {
   font-family:  sans-serif;
 }
 em {
   font-family: serif;
+  color: crimson;
 }
 p.greentea {
   color: green;

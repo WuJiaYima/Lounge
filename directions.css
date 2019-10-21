@@ -1,0 +1,25 @@
+body {
+    font-family: serif;
+}
+p.green {
+    color: greenyellow;
+    font-size: 20px;
+}
+p.orange {
+    color: lightseagreen;
+    font-size: 20px;
+}
+p.pink {
+    color: lightcoral;
+    font-size: 20px;
+}
+p {
+    color: slateblue;
+    font-size: 20px;
+}
+h1.size {
+   font-size: 150px;
+   font-weight: bold;
+   text-decoration: underline;
+   color: orangered;
+}
