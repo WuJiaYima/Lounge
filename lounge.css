@@ -1,7 +1,7 @@
-h1,h2 {
+h1, {
   color: gray
 }
-h1 {
+h1 h2{
   border-bottom: 1px solid black;
 }
 p {
@@ -21,4 +21,10 @@ p.raspberry {
 }
 p.blueberry {
   color: purple;
+}
+p.pink{
+  color: pink;
+}
+p.underline{
+  text-decoration;: underline;
 }
