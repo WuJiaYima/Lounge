@@ -1,17 +1,18 @@
-h1, {
-  color: gray
+h1,h2 {
+  color: darkred;
 }
-h1 h2{
-  border-bottom: 1px solid black;
+h1 {
+  border-bottom: solid;
 }
 p {
-  color: maroon;
+  color: goldenrod;
 }
 body {
   font-family:  sans-serif;
 }
 em {
   font-family: serif;
+  color: crimson;
 }
 p.greentea {
   color: green;
@@ -26,5 +27,5 @@ p.pink{
   color: pink;
 }
 p.underline{
-  text-decoration;: underline;
+  text-decoration: underline;
 }
