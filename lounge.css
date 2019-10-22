@@ -6,6 +6,7 @@ h1 {
 }
 p {
   color: goldenrod;
+  border: black;
 }
 body {
   font-family:  sans-serif;
@@ -28,4 +29,8 @@ p.pink{
 }
 p.underline{
   text-decoration: underline;
+}
+p,h2 {
+  padding: 0px;
+  margin: 0px;
 }

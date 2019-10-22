@@ -18,8 +18,16 @@ p {
     font-size: 20px;
 }
 h1.size {
-   font-size: 150px;
-   font-weight: bold;
-   text-decoration: underline;
+    font-size: 150px;
+    font-weight: bold;
+    text-decoration: underline;
    color: orangered;
+    padding-top: 0px;
+    padding-left: 60px;
+    margin-bottom: 10px;
+}
+p {
+  padding-left: 20px;
+  padding: 15px;
+  margin: 5px;
 }
